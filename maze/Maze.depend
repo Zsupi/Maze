@@ -1,0 +1,891 @@
+# depslib dependency file v1.0
+1588011946 source:d:\programozas\maze\main.cpp
+	"src/include/Palya.h"
+	"src/include/Menu.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1587841728 d:\programozas\maze\src\include\blokk.h
+	"Pont.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1587839164 d:\programozas\maze\src\include\pont.h
+	<iostream>
+
+1588192376 d:\programozas\maze\src\include\palya.h
+	"Blokk.h"
+	"Torch.h"
+	"Coin.h"
+
+1588192338 d:\programozas\maze\src\include\kepzes.h
+	"Palya.h"
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/VertexBuffer.hpp>
+	<SFML/Graphics/View.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Clipboard.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1539639090 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1539639090 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\utf.inl
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\string.inl
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\thread.inl
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\threadlocalptr.inl
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\vector2.inl
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\system\vector3.inl
+
+1539639090 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\clipboard.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\contextsettings.hpp
+	<SFML/Config.hpp>
+
+1539639090 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\cursor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\window.hpp
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\window\windowstyle.hpp
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\rect.inl
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\primitivetype.hpp
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Window/ContextSettings.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\glsl.inl
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1525815620 d:\programozas\programming libraries\sfml-2.5.1\include\sfml\graphics\vertexbuffer.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1587327728 source:d:\programozas\maze\src\blokk.cpp
+	"include/Blokk.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1588192338 source:d:\programozas\maze\src\kepzes.cpp
+	<iostream>
+	"include/Kepzes.h"
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1587976282 source:d:\programozas\maze\src\palya.cpp
+	"include/Palya.h"
+	"include/Kepzes.h"
+	<iostream>
+
+1586971644 source:d:\programozas\maze\src\pont.cpp
+	"include/Pont.h"
+	<iostream>
+
+1588201772 source:d:\programozas\maze\src\player.cpp
+	<SFML/Graphics.hpp>
+	<cmath>
+	"include/Player.h"
+
+1587976072 d:\programozas\maze\src\include\player.h
+	<SFML/Graphics.hpp>
+	"Palya.h"
+
+1587930216 source:d:\programozas\maze\src\item.cpp
+	"include/Item.h"
+
+1588011408 d:\programozas\maze\src\include\item.h
+	"Player.h"
+	"Pont.h"
+	<SFML/Graphics.hpp>
+
+1588278312 source:d:\programozas\maze\src\game.cpp
+	"include/Game.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<math.h>
+	<cstring>
+
+1588201402 d:\programozas\maze\src\include\game.h
+	"Player.h"
+	"Palya.h"
+	"Kepzes.h"
+	<SFML/Graphics.hpp>
+
+1588274808 source:d:\programozas\maze\src\menu.cpp
+	"include/Menu.h"
+	<iostream>
+	<cmath>
+	<SFML/Graphics.hpp>
+
+1587839374 d:\programozas\maze\src\include\menu.h
+	"Game.h"
+	<SFML/Graphics.hpp>
+
+1587976164 d:\programozas\maze\src\include\torch.h
+	<SFML/Graphics.hpp>
+	"Item.h"
+
+1588291574 source:d:\programozas\maze\resources\ico_resources.rc
+
+1587930156 source:d:\programozas\maze\src\torch.cpp
+	"include/Torch.h"
+	"include/Item.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1587976164 d:\programozas\maze\src\include\coin.h
+	<SFML/Graphics.hpp>
+	"Item.h"
+
+1588277704 source:d:\programozas\maze\src\coin.cpp
+	"include/Coin.h"
+	"include/Item.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1589807538 source:d:\programozas\labyrinth\maze\main.cpp
+	"src/include/Palya.h"
+	"src/include/Menu.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1588368068 d:\programozas\labyrinth\maze\src\include\palya.h
+	"Blokk.h"
+	"Torch.h"
+	"Coin.h"
+
+1589744380 d:\programozas\labyrinth\maze\src\include\blokk.h
+	"Pont.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1588368068 d:\programozas\labyrinth\maze\src\include\pont.h
+	<iostream>
+	"memtrace.h"
+
+1587976164 d:\programozas\labyrinth\maze\src\include\torch.h
+	<SFML/Graphics.hpp>
+	"Item.h"
+
+1588011408 d:\programozas\labyrinth\maze\src\include\item.h
+	"Player.h"
+	"Pont.h"
+	<SFML/Graphics.hpp>
+
+1589227612 d:\programozas\labyrinth\maze\src\include\player.h
+	<SFML/Graphics.hpp>
+	"Palya.h"
+
+1589280616 d:\programozas\labyrinth\maze\src\include\coin.h
+	<SFML/Graphics.hpp>
+	"Item.h"
+
+1589235496 d:\programozas\labyrinth\maze\src\include\menu.h
+	"Game.h"
+	<SFML/Graphics.hpp>
+
+1589275616 d:\programozas\labyrinth\maze\src\include\game.h
+	"Player.h"
+	"Palya.h"
+	"Kepzes.h"
+	<SFML/Graphics.hpp>
+
+1588192338 d:\programozas\labyrinth\maze\src\include\kepzes.h
+	"Palya.h"
+
+1588291574 source:d:\programozas\labyrinth\maze\resources\ico_resources.rc
+
+1589712366 source:d:\programozas\labyrinth\maze\src\blokk.cpp
+	"include/Blokk.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1588277704 source:d:\programozas\labyrinth\maze\src\coin.cpp
+	"include/Coin.h"
+	"include/Item.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1589276882 source:d:\programozas\labyrinth\maze\src\game.cpp
+	"include/Game.h"
+	<iostream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<math.h>
+	<cstring>
+	<codecvt>
+
+1587930216 source:d:\programozas\labyrinth\maze\src\item.cpp
+	"include/Item.h"
+
+1588192338 source:d:\programozas\labyrinth\maze\src\kepzes.cpp
+	<iostream>
+	"include/Kepzes.h"
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1589276834 source:d:\programozas\labyrinth\maze\src\menu.cpp
+	"include/Menu.h"
+	<iostream>
+	<cmath>
+	<SFML/Graphics.hpp>
+
+1589226340 source:d:\programozas\labyrinth\maze\src\palya.cpp
+	"include/Palya.h"
+	"include/Kepzes.h"
+	<iostream>
+
+1589228218 source:d:\programozas\labyrinth\maze\src\player.cpp
+	<SFML/Graphics.hpp>
+	<cmath>
+	<cstring>
+	"include/Player.h"
+
+1587930156 source:d:\programozas\labyrinth\maze\src\torch.cpp
+	"include/Torch.h"
+	"include/Item.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1584644122 d:\programozas\labyrinth\maze\src\include\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1584650940 source:d:\programozas\labyrinth\maze\src\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+	"kifli.h"
+
+1573723964 d:\programozas\labyrinth\maze\src\include\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1573723966 d:\programozas\labyrinth\maze\src\include\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1589810602 source:d:\programozas\labyrinth másolata\maze\main.cpp
+	"src/include/Palya.h"
+	"src/include/Menu.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1589808910 d:\programozas\labyrinth másolata\maze\src\include\palya.h
+	"Blokk.h"
+	"Torch.h"
+	"Coin.h"
+
+1589809536 d:\programozas\labyrinth másolata\maze\src\include\blokk.h
+	"Pont.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1588368068 d:\programozas\labyrinth másolata\maze\src\include\pont.h
+	<iostream>
+	"memtrace.h"
+
+1584644122 d:\programozas\labyrinth másolata\maze\src\include\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1587976164 d:\programozas\labyrinth másolata\maze\src\include\torch.h
+	<SFML/Graphics.hpp>
+	"Item.h"
+
+1588011408 d:\programozas\labyrinth másolata\maze\src\include\item.h
+	"Player.h"
+	"Pont.h"
+	<SFML/Graphics.hpp>
+
+1589808910 d:\programozas\labyrinth másolata\maze\src\include\player.h
+	<SFML/Graphics.hpp>
+	"Palya.h"
+
+1589280616 d:\programozas\labyrinth másolata\maze\src\include\coin.h
+	<SFML/Graphics.hpp>
+	"Item.h"
+
+1589809076 d:\programozas\labyrinth másolata\maze\src\include\menu.h
+	"Game.h"
+	<SFML/Graphics.hpp>
+
+1589808396 d:\programozas\labyrinth másolata\maze\src\include\game.h
+	"Player.h"
+	"Palya.h"
+	"Kepzes.h"
+	<SFML/Graphics.hpp>
+
+1588192338 d:\programozas\labyrinth másolata\maze\src\include\kepzes.h
+	"Palya.h"
+
+1588291574 source:d:\programozas\labyrinth másolata\maze\resources\ico_resources.rc
+
+1589810594 source:d:\programozas\labyrinth másolata\maze\src\blokk.cpp
+	"include/Blokk.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1588277704 source:d:\programozas\labyrinth másolata\maze\src\coin.cpp
+	"include/Coin.h"
+	"include/Item.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1587930216 source:d:\programozas\labyrinth másolata\maze\src\item.cpp
+	"include/Item.h"
+
+1589809076 source:d:\programozas\labyrinth másolata\maze\src\menu.cpp
+	"include/Menu.h"
+	<iostream>
+	<cmath>
+	<SFML/Graphics.hpp>
+
+1589809446 source:d:\programozas\labyrinth másolata\maze\src\palya.cpp
+	"include/Palya.h"
+	"include/Kepzes.h"
+	<iostream>
+
+1587930156 source:d:\programozas\labyrinth másolata\maze\src\torch.cpp
+	"include/Torch.h"
+	"include/Item.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1589808910 source:d:\programozas\labyrinth másolata\maze\src\game.cpp
+	"include/Game.h"
+	<iostream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<math.h>
+	<cstring>
+	<codecvt>
+
+1589810052 source:d:\programozas\labyrinth másolata\maze\src\player.cpp
+	<SFML/Graphics.hpp>
+	<cmath>
+	<cstring>
+	"include/Player.h"
+
+1589807002 source:d:\programozas\nhf\labyrinth másolata\maze\main.cpp
+	"src/include/Palya.h"
+	"src/include/Menu.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1589805310 d:\programozas\nhf\labyrinth másolata\maze\src\include\palya.h
+	"Blokk.h"
+	"Torch.h"
+	"Coin.h"
+
+1589805936 d:\programozas\nhf\labyrinth másolata\maze\src\include\blokk.h
+	"Pont.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1588364468 d:\programozas\nhf\labyrinth másolata\maze\src\include\pont.h
+	<iostream>
+	"memtrace.h"
+
+1584640522 d:\programozas\nhf\labyrinth másolata\maze\src\include\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1587972564 d:\programozas\nhf\labyrinth másolata\maze\src\include\torch.h
+	<SFML/Graphics.hpp>
+	"Item.h"
+
+1588007808 d:\programozas\nhf\labyrinth másolata\maze\src\include\item.h
+	"Player.h"
+	"Pont.h"
+	<SFML/Graphics.hpp>
+
+1589805310 d:\programozas\nhf\labyrinth másolata\maze\src\include\player.h
+	<SFML/Graphics.hpp>
+	"Palya.h"
+
+1589277016 d:\programozas\nhf\labyrinth másolata\maze\src\include\coin.h
+	<SFML/Graphics.hpp>
+	"Item.h"
+
+1589805476 d:\programozas\nhf\labyrinth másolata\maze\src\include\menu.h
+	"Game.h"
+	<SFML/Graphics.hpp>
+
+1589804796 d:\programozas\nhf\labyrinth másolata\maze\src\include\game.h
+	"Player.h"
+	"Palya.h"
+	"Kepzes.h"
+	<SFML/Graphics.hpp>
+
+1588188738 d:\programozas\nhf\labyrinth másolata\maze\src\include\kepzes.h
+	"Palya.h"
+
+1588287974 source:d:\programozas\nhf\labyrinth másolata\maze\resources\ico_resources.rc
+
+1589807166 source:d:\programozas\nhf\labyrinth másolata\maze\src\blokk.cpp
+	"include/Blokk.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1588274104 source:d:\programozas\nhf\labyrinth másolata\maze\src\coin.cpp
+	"include/Coin.h"
+	"include/Item.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1589805310 source:d:\programozas\nhf\labyrinth másolata\maze\src\game.cpp
+	"include/Game.h"
+	<iostream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<math.h>
+	<cstring>
+	<codecvt>
+
+1587926616 source:d:\programozas\nhf\labyrinth másolata\maze\src\item.cpp
+	"include/Item.h"
+
+1589805476 source:d:\programozas\nhf\labyrinth másolata\maze\src\menu.cpp
+	"include/Menu.h"
+	<iostream>
+	<cmath>
+	<SFML/Graphics.hpp>
+
+1589805846 source:d:\programozas\nhf\labyrinth másolata\maze\src\palya.cpp
+	"include/Palya.h"
+	"include/Kepzes.h"
+	<iostream>
+
+1589806452 source:d:\programozas\nhf\labyrinth másolata\maze\src\player.cpp
+	<SFML/Graphics.hpp>
+	<cmath>
+	<cstring>
+	"include/Player.h"
+
+1587926556 source:d:\programozas\nhf\labyrinth másolata\maze\src\torch.cpp
+	"include/Torch.h"
+	"include/Item.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+

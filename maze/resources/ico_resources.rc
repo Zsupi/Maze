@@ -1,0 +1,6 @@
+#ifndef RECOURCES_RC_INCLUDED
+#define RECOURCES_RC_INCLUDED
+
+MAIN ICON "Labirintus-3d.ico"
+
+#endif // RECOURCE_RC_INCLUDED
